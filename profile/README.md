@@ -13,7 +13,7 @@ Focus on simplicity, beauty and practicality
 
 # Status
 
-Project is mainly for Ubuntu, it is currently in the initial stage
-The ubuntu-jammy branch is in testing!
+Project is mainly for Ubuntu, it is currently in the initial stage     
+The ubuntu-jammy branch is in testing!     
 
 Contributions are welcome! Big guys are also welcome to join the development~ 
