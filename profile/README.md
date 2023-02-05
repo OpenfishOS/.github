@@ -6,5 +6,14 @@
   <h1>OpenfishOS</h1>
 </div>
 
+This is a fork of Cutefish Desktop Environment designed to provide a simple and efficient desktop experience
+
 Make a better experience Desktop OS     
 Focus on simplicity, beauty and practicality
+
+# Status
+
+Project is mainly for Ubuntu, it is currently in the initial stage
+The ubuntu-jammy branch is in testing!
+
+Contributions are welcome! Big guys are also welcome to join the development~ 
